@@ -8,7 +8,7 @@
 <ul>
   <li><b><code>vehicles</code></b>: 車を定義します。
     <ul>
-      <li><b><code>Lafeなど</code></b>: 車種名です。</li>
+      <li><b><code>例: GR86</code></b>: 車種名です。</li>
       <li><b><code>space</code></b>: 1つあたりの車のマスのサイズです。</li>
       <li><b><code>max_count</code></b>: 所有している数です。重複可能上限と定義しています。</li>
       <li><b><code>revenue</code></b>: (基礎実数)収益です。</li>
